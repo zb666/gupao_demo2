@@ -1,0 +1,16 @@
+2020-10-18 13:42:59.540[INFO][com.gupaoedu.GpSpringDemo2Application][logStarting][55] Starting GpSpringDemo2Application on CY-20190713CBYP with PID 7436 (D:\heima_changgou\gupao_demo2\springboot_demo02\target\classes started by Administrator in D:\heima_changgou\gupao_demo2)
+2020-10-18 13:42:59.543[DEBUG][com.gupaoedu.GpSpringDemo2Application][logStarting][56] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 13:42:59.544[INFO][com.gupaoedu.GpSpringDemo2Application][logStartupProfileInfo][655] The following profiles are active: prod
+2020-10-18 13:43:00.750[INFO][com.gupaoedu.GpSpringDemo2Application][logStarted][61] Started GpSpringDemo2Application in 1.539 seconds (JVM running for 3.067)
+2020-10-18 13:56:37.943[INFO][com.gupaoedu.GpSpringDemo2Application][logStarting][55] Starting GpSpringDemo2Application on CY-20190713CBYP with PID 12492 (D:\heima_changgou\gupao_demo2\springboot_demo02\target\classes started by Administrator in D:\heima_changgou\gupao_demo2)
+2020-10-18 13:56:37.946[DEBUG][com.gupaoedu.GpSpringDemo2Application][logStarting][56] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 13:56:37.947[INFO][com.gupaoedu.GpSpringDemo2Application][logStartupProfileInfo][655] The following profiles are active: prod
+2020-10-18 13:56:39.040[INFO][com.gupaoedu.GpSpringDemo2Application][logStarted][61] Started GpSpringDemo2Application in 1.502 seconds (JVM running for 2.639)
+2020-10-18 14:01:05.184[INFO][com.gupaoedu.GpSpringDemo2Application][logStarting][55] Starting GpSpringDemo2Application on CY-20190713CBYP with PID 3132 (D:\heima_changgou\gupao_demo2\springboot_demo02\target\classes started by Administrator in D:\heima_changgou\gupao_demo2)
+2020-10-18 14:01:05.187[DEBUG][com.gupaoedu.GpSpringDemo2Application][logStarting][56] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 14:01:05.188[INFO][com.gupaoedu.GpSpringDemo2Application][logStartupProfileInfo][651] No active profile set, falling back to default profiles: default
+2020-10-18 14:01:06.467[INFO][com.gupaoedu.GpSpringDemo2Application][logStarted][61] Started GpSpringDemo2Application in 1.692 seconds (JVM running for 2.857)
+2020-10-18 14:02:09.462[INFO][com.gupaoedu.GpSpringDemo2Application][logStarting][55] Starting GpSpringDemo2Application on CY-20190713CBYP with PID 1456 (D:\heima_changgou\gupao_demo2\springboot_demo02\target\classes started by Administrator in D:\heima_changgou\gupao_demo2)
+2020-10-18 14:02:09.466[DEBUG][com.gupaoedu.GpSpringDemo2Application][logStarting][56] Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-10-18 14:02:09.467[INFO][com.gupaoedu.GpSpringDemo2Application][logStartupProfileInfo][655] The following profiles are active: prod
+2020-10-18 14:02:10.685[INFO][com.gupaoedu.GpSpringDemo2Application][logStarted][61] Started GpSpringDemo2Application in 1.585 seconds (JVM running for 2.702)
